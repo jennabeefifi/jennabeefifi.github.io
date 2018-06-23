@@ -1788,6 +1788,10 @@
 		margin-bottom: 0.5em;
 	}
 
+	form input[type="hidden"] {
+    display: none;
+  }
+
 	form input[type="text"],
 	form input[type="email"],
 	form input[type="password"],
@@ -2012,6 +2016,17 @@
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			padding: 1.5em 0 0.75em 0;
+		}
+
+		.phone-number {
+      text-align: center;
+		}
+
+		.phone-number > a,
+		.phone-number > a:visited,
+		.phone-number > a:active,
+		.phone-number > a:link {
+      border-bottom: none;
 		}
 
 			#header .bottom > :last-child {
