@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-seo-tag
+
+title: Highbrow Eyebrows Microblading by Jenna Brammer
+description: High quality microblading work in Phoenix, Arizona done by Jenna Brammer.
+social:
+  name: Jenna Brammer
+  links:
+    - https://twitter.com/jbrammer22
+    - https://www.instagram.com/highbroweyebrows/
+    - https://www.facebook.com/HighbrowEyebrows-192178981435256
